@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "c:/Users/bisha/Downloads/internship/desktop/Example/."
+    ],
+    "python.terminal.activateEnvironment": false
+}
